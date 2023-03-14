@@ -177,6 +177,7 @@ small{
 	color: gray;
 }
 #submit{
+	
 	width: 238.33px;
 	height: 37px;
 	background-color: white;
@@ -187,6 +188,9 @@ small{
 	color: black;
 	background-color: #f3d643;
 
+}
+#submit :hover{
+	cursor: pointer;
 }
 .img-container{
 	margin: 50px 0px 0px;
